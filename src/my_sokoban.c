@@ -11,7 +11,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>
-#include "include/my.h"
+#include "my.h"
 
 static void yes_no(int l, int *lo)
 {
